@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 128cfd3f8158dfc47b6cbbd6d9127adc
+timeCreated: 1501705105
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PRES_Q_0
+    21300002: PRES_Q_1
+    21300004: PRES_Q_2
+    21300006: PRES_Q_3
+    21300008: PRES_Q_4
+    21300010: PRES_Q_5
+    21300012: PRES_Q_6
+    21300014: PRES_Q_7
+    21300016: PRES_Q_8
+    21300018: PRES_Q_9
+    21300020: PRES_Q_10
+    21300022: PRES_Q_11
+    21300024: PRES_Q_12
+    21300026: PRES_Q_13
+    21300028: PRES_Q_14
+    21300030: PRES_Q_15
+    21300032: PRES_Q_16
+    21300034: PRES_Q_17
+    21300036: PRES_Q_18
+    21300038: PRES_Q_19
+    21300040: PRES_Q_20
+    21300042: PRES_Q_21
+    21300044: PRES_Q_22
+    21300046: PRES_Q_23
+    21300048: PRES_Q_24
+    21300050: PRES_Q_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PRES_Q_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 241
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 242
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 241
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_3
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 0
+        width: 238
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_4
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 0
+        width: 239
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_5
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 0
+        width: 241
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_6
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 0
+        width: 241
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_7
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 0
+        width: 238
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_8
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 0
+        width: 239
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_9
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 0
+        width: 241
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_10
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 0
+        width: 241
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_11
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 0
+        width: 239
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_12
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 0
+        width: 238
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_13
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 0
+        width: 241
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_14
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 0
+        width: 242
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_15
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 0
+        width: 241
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_16
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 0
+        width: 238
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_17
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 0
+        width: 239
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_18
+      rect:
+        serializedVersion: 2
+        x: 4448
+        y: 0
+        width: 241
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_19
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 0
+        width: 241
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_20
+      rect:
+        serializedVersion: 2
+        x: 4944
+        y: 0
+        width: 238
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_21
+      rect:
+        serializedVersion: 2
+        x: 5191
+        y: 0
+        width: 239
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_22
+      rect:
+        serializedVersion: 2
+        x: 5436
+        y: 0
+        width: 241
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_23
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 0
+        width: 241
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_24
+      rect:
+        serializedVersion: 2
+        x: 5931
+        y: 0
+        width: 239
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PRES_Q_25
+      rect:
+        serializedVersion: 2
+        x: 6179
+        y: 0
+        width: 238
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
